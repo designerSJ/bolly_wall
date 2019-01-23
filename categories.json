@@ -2,26 +2,31 @@
   {
     "name":"Category 1",
     "number": "120 Jokes",
-    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
+    "end": "funny"
   },
   {
     "name":"Category 2",
     "number": "20 Jokes",
-    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
+    "end": "husband_wife"
   },
   {
     "name":"Category 3",
     "number": "45 Jokes",
-    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
+    "end": "teacher_student"
   },
   {
     "name":"Category 4",
     "number": "90 Jokes",
-    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
+    "end": "girlfriend_boyfriend"
   },
   {
     "name":"Category 5",
     "number": "78 Jokes",
-    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
+    "end": "santa_banta"
   }
 ]

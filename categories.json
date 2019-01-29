@@ -34,5 +34,11 @@
     "number": "67 Jokes",
     "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
     "end": "father_son"
+  },
+  {
+    "name":"Hello",
+    "number": "80 Jokes",
+    "image": "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg",
+    "end": "hello"
   }
 ]

@@ -1,0 +1,42 @@
+[
+ {
+     "cat_id": 0,
+     "name" : "Attitude",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 1,
+     "name" : "Friendship",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 2,
+     "name" : "Funny",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 3,
+     "name" : "Good Morning",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 4,
+     "name" : "Good Night",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 5,
+     "name" : "Life",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 6,
+     "name" : "Love",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  },
+  {
+     "cat_id": 7,
+     "name" : "Sad",
+     "imageUrl" : "https://raw.githubusercontent.com/designerSJ/bolly_wall/master/avatars/friendship.jpg"
+  }
+]

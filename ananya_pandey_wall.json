@@ -1,7 +1,10 @@
 [
 	{
-		"id": 1,
-		"thumb": "",
-		"full": ""
+		"thumb": "https://mythgyaan.nyc3.cdn.digitaloceanspaces.com/Wall/ananya_pandey/1_thumb.jpg",
+		"full": "https://mythgyaan.nyc3.cdn.digitaloceanspaces.com/Wall/ananya_pandey/1.jpg"
 	},
+	{
+		"thumb": "https://mythgyaan.nyc3.cdn.digitaloceanspaces.com/Wall/ananya_pandey/2_thumb.jpg",
+		"full": "https://mythgyaan.nyc3.cdn.digitaloceanspaces.com/Wall/ananya_pandey/2.jpg"
+	}
 ]
